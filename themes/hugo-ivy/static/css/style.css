@@ -99,17 +99,15 @@ li {
 /* Links */
 
 a {
-  color: black;
+  color: #312E81;
   text-decoration: none;
   padding-bottom: 2px;
-  border-bottom: 0px solid;
-  padding: 0.5rem;
+  border-bottom: 0px solid #9CA3AF;
 }
 
 a:hover {
   background-color: #F3F4F6;
   border-radius: 0.3rem;
-  padding: 0.5rem;
 }
 
 sup a {
@@ -189,7 +187,7 @@ body {
 }
 
 .masthead .tagline {
-  font-style: italic;
+  color: #4B5563;
   text-align: right;
 }
 
@@ -234,7 +232,7 @@ body {
 
 .subtitle {
   font-size: .9em;
-  color: #666;
+  color: #6B7280;
 }
 
 /* Footnotes */
