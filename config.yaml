@@ -1,7 +1,9 @@
 baseurl: /
 languageCode: en-us
 title: Fishy Data
+titleEmoji: ! "\U0001F41F" 
 theme: "hugo-ivy"
+enableEmoji: true
 googleAnalytics: ""
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
