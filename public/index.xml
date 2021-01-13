@@ -1,53 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Renga Theme for Hugo on Hugo Renga Theme Demo</title>
-    <link>https://nanx.me/hugo-renga/</link>
-    <description>Recent content in The Renga Theme for Hugo on Hugo Renga Theme Demo</description>
+    <title>Home on Fishy Data</title>
+    <link>/</link>
+    <description>Recent content in Home on Fishy Data</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 09 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://nanx.me/hugo-renga/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>https://nanx.me/hugo-renga/blog/post/hello-markdown/</link>
-      <pubDate>Sat, 10 Nov 2018 12:00:00 -0700</pubDate>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nanx.me/hugo-renga/blog/post/hello-markdown/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <guid>/about/</guid>
+      <description>Hi :wave: I&amp;rsquo;m Seb Dalgarno.
+This is my blog for all things R, fish movement, statistics, data visualization, and various other data/computery things.
+I&amp;rsquo;m a PhD student at the UNBC Freshwater Fish Ecology lab. We are using many years of acoustic telemetry data and Bayesian models to make inferences about White Sturgeon movement in the Columbia River. Formerly, I was a computational biologist at Poisson Consulting.
+Check out my personal or consulting website for more info.</description>
     </item>
     
     <item>
-      <title>Renga Theme Demo</title>
-      <link>https://nanx.me/hugo-renga/blog/post/hugo-renga-theme-demo/</link>
-      <pubDate>Sat, 10 Nov 2018 12:00:00 +0000</pubDate>
+      <title>Another Note on A blogdown Tutorial</title>
+      <link>/note/2017/06/14/another-note/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nanx.me/hugo-renga/blog/post/hugo-renga-theme-demo/</guid>
-      <description>Renga is a Bootstrap-based minimalist theme for Hugo.
-Features  Minimalist Responsive &amp;amp; mobile-first (Bootstrap 4) Native font stack High Contrast Math typesetting (MathJaX) Syntax highlighting (highlight.js) Progressive image loading (progressively.js) Disqus Google Analytics Open Graph meta tags Twitter Cards meta tags  Typography h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
-This is bold text
-This is italic text
-This is italic text</description>
+      <guid>/note/2017/06/14/another-note/</guid>
+      <description>I just discovered an awesome tutorial on blogdown written by Alison. I have to admit this is the best blogdown tutorial I have seen so far.</description>
+    </item>
+    
+    <item>
+      <title>A Quick Note on Two Beautiful Websites</title>
+      <link>/note/2017/06/13/a-quick-note/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/note/2017/06/13/a-quick-note/</guid>
+      <description>To me, the two most impressive websites based on blogdown are:
+ Rob J Hyndman&amp;rsquo;s personal website. Live Free or Dichotomize by Lucy and Nick et al.  I&amp;rsquo;m sure there will be more.</description>
+    </item>
+    
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>/post/2016/02/14/a-plain-markdown-post/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016/02/14/a-plain-markdown-post/</guid>
+      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.
+1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+ You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
     </item>
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>https://nanx.me/hugo-renga/blog/post/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      <link>/post/2015/07/23/lorem-ipsum/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://nanx.me/hugo-renga/blog/post/lorem-ipsum/</guid>
+      <guid>/post/2015/07/23/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-In modus congue feugait eos.</description>
-    </item>
-    
-    <item>
-      <title>About Jane</title>
-      <link>https://nanx.me/hugo-renga/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://nanx.me/hugo-renga/about/</guid>
-      <description>Lorem ipsum dolor sit amet, ex has sale ullum corrumpit, sea dicam nostrum sensibus ad. Porro tritani persecuti te sed. Omittam dissentias pro ex. Atqui luptatum duo id. Eros minim eam ex, novum elitr accusam quo in. Nec ne audire euripidis, mea qualisque consetetur cu. Suspendisse volutpat sem a risus euismod convallis.
-In modus congue feugait eos. In nec nonumy volutpat corrumpit, sea assentior quaerendum no, cum affert scripta ea. No nihil voluptaria pro.</description>
+Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
   </channel>
